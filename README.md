@@ -137,6 +137,8 @@ Deployment steps:
 
 ---
 
+## Live Link - https://nhtsfzmupkdhehidgn2fje.streamlit.app/
+
 ## 📂 Project Structure
 
 ```
