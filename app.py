@@ -111,7 +111,7 @@ predict = st.button("Predict this button for checking Loan Approval")
 
 
 if predict:
-    st.snow()
+    st.balloons()
 
     X1 =  np.array([X])
 
@@ -125,3 +125,4 @@ if predict:
 
 else:
     "Please press the Predict Button for Prediction"
+
